@@ -27,7 +27,7 @@ print("""
 |_____________________________________________|
 """)
 print
-print "Ma priso nako gaw :c"
+print("Ma priso nako gaw :c")
 print
 ip = input("IP Target: ")
 port = int(input("Port: "))
